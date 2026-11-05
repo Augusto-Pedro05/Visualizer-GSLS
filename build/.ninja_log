@@ -1,0 +1,118 @@
+# ninja log v7
+1	48	1793834259604712415	_deps/glfw-build/src/viewporter-client-protocol.h	5fdc98b9ba112ad6
+1	48	1793834259604712415	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/viewporter-client-protocol.h	5fdc98b9ba112ad6
+1	49	1793834259604712415	_deps/glfw-build/src/viewporter-client-protocol-code.h	dacbc881e99ad66e
+1	49	1793834259604712415	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/viewporter-client-protocol-code.h	dacbc881e99ad66e
+2	49	1793834259604712415	_deps/glfw-build/src/idle-inhibit-unstable-v1-client-protocol.h	931095d3b60506be
+2	49	1793834259604712415	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/idle-inhibit-unstable-v1-client-protocol.h	931095d3b60506be
+2	49	1793834259605986748	_deps/glfw-build/src/idle-inhibit-unstable-v1-client-protocol-code.h	c78d77978b464d22
+2	49	1793834259605986748	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/idle-inhibit-unstable-v1-client-protocol-code.h	c78d77978b464d22
+2	49	1793834259605592999	_deps/glfw-build/src/pointer-constraints-unstable-v1-client-protocol.h	2c736b4ca363f7c9
+2	49	1793834259605592999	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/pointer-constraints-unstable-v1-client-protocol.h	2c736b4ca363f7c9
+2	50	1793834259604712415	_deps/glfw-build/src/pointer-constraints-unstable-v1-client-protocol-code.h	c39881852cf3eec8
+2	50	1793834259604712415	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/pointer-constraints-unstable-v1-client-protocol-code.h	c39881852cf3eec8
+2	51	1793834259606328497	_deps/glfw-build/src/xdg-shell-client-protocol.h	5bbe66350d342eec
+2	51	1793834259606328497	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/xdg-shell-client-protocol.h	5bbe66350d342eec
+2	51	1793834259606127114	_deps/glfw-build/src/xdg-shell-client-protocol-code.h	c8dce63823064684
+2	51	1793834259606127114	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/xdg-shell-client-protocol-code.h	c8dce63823064684
+48	52	1793834259607824064	_deps/glfw-build/src/relative-pointer-unstable-v1-client-protocol.h	b37994528d121a87
+48	52	1793834259607824064	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/relative-pointer-unstable-v1-client-protocol.h	b37994528d121a87
+49	52	1793834259607824064	_deps/glfw-build/src/relative-pointer-unstable-v1-client-protocol-code.h	c8182bcc2ed1cd7
+49	52	1793834259607824064	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/relative-pointer-unstable-v1-client-protocol-code.h	c8182bcc2ed1cd7
+49	52	1793834259607824064	_deps/glfw-build/src/fractional-scale-v1-client-protocol.h	8493c4a90bc749f8
+49	52	1793834259607824064	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/fractional-scale-v1-client-protocol.h	8493c4a90bc749f8
+1	52	1793834259609370987	_deps/glfw-build/src/wayland-client-protocol-code.h	3f6bf265f43b3bef
+1	52	1793834259609370987	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/wayland-client-protocol-code.h	3f6bf265f43b3bef
+49	52	1793834259608712629	_deps/glfw-build/src/fractional-scale-v1-client-protocol-code.h	af3a8e5cab836154
+49	52	1793834259608712629	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/fractional-scale-v1-client-protocol-code.h	af3a8e5cab836154
+49	52	1793834259609219833	_deps/glfw-build/src/xdg-activation-v1-client-protocol.h	f80d6829fb85a98
+49	52	1793834259609219833	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/xdg-activation-v1-client-protocol.h	f80d6829fb85a98
+1	52	1793834259609890133	_deps/glfw-build/src/wayland-client-protocol.h	727a7fb62c5735d5
+1	52	1793834259609890133	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/wayland-client-protocol.h	727a7fb62c5735d5
+50	52	1793834259609911553	_deps/glfw-build/src/xdg-activation-v1-client-protocol-code.h	4014ea02f25fd55f
+50	52	1793834259609911553	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/xdg-activation-v1-client-protocol-code.h	4014ea02f25fd55f
+51	53	1793834259610999857	_deps/glfw-build/src/xdg-decoration-unstable-v1-client-protocol-code.h	cbf42a7a17edda0
+51	53	1793834259610999857	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/xdg-decoration-unstable-v1-client-protocol-code.h	cbf42a7a17edda0
+51	53	1793834259611084811	_deps/glfw-build/src/xdg-decoration-unstable-v1-client-protocol.h	9be624ead8dddb9f
+51	53	1793834259611084811	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/xdg-decoration-unstable-v1-client-protocol.h	9be624ead8dddb9f
+1	67	1793839594614141401	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+54	173	1793834259611761334	_deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.o	e527e652f0ae0926
+54	175	1793834259611647464	_deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.o	410e023534cc7dd3
+54	179	1793834259611341619	_deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.o	4bb08c1abf0970bb
+56	183	1793834259613730691	_deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.o	9d95cbad77e00619
+53	199	1793834259611217877	_deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.o	36955cdf34ea2603
+55	208	1793834259612859111	_deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.o	ef08621948bfa984
+54	215	1793834259611533889	_deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.o	41e03050d7ee3de6
+54	245	1793834259611902721	_deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.o	31ccf1ef7f234010
+174	272	1793834259731369368	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.o	d343067bf94a9449
+179	274	1793834259736986262	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.o	e22ae8fcbf1a5c9b
+199	293	1793834259755825149	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_time.c.o	7e9d7711a5a1c3bf
+54	294	1793834259611433277	_deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.o	9171ba87eed3a9f
+170	297	1793834259727422772	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.o	cbfa8b8c6f88430a
+175	300	1793834259731824973	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.o	8152a8fe57a115b7
+183	315	1793834259739825032	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_module.c.o	7a89efaf4ba48b13
+208	325	1793834259764825215	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_thread.c.o	ddee1fcfac122a98
+274	380	1793834259831682859	_deps/glfw-build/src/CMakeFiles/glfw.dir/xkb_unicode.c.o	1c08331572a0c531
+245	401	1793834259801825486	_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_monitor.c.o	d91fd0580d7793c0
+298	411	1793834259855459789	_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_monitor.c.o	76d62c90cd747004
+1	279	1793839594614847459	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+325	435	1793834259882695007	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_poll.c.o	4ecc32a38473cd97
+293	440	1793834259851009802	_deps/glfw-build/src/CMakeFiles/glfw.dir/glx_context.c.o	f31cb09df6eadb34
+67	93	1793839594680141852	libglad.a	ace479962c49eec4
+315	447	1793834259872896701	_deps/glfw-build/src/CMakeFiles/glfw.dir/linux_joystick.c.o	fa42e04274913866
+215	456	1793834259772195370	_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_init.c.o	966c654843ebf9
+295	466	1793834259852413703	_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_init.c.o	47326e07b92ac447
+272	516	1793834259828825684	_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_window.c.o	f3ff974f3406caf9
+300	581	1793834259857961991	_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_window.c.o	890a0de8de4031f9
+581	615	1793834260138605516	_deps/glfw-build/src/libglfw3.a	3e0142d2e068c2e8
+279	331	1793839594892143301	visualizador	fa3763e8deba9d18
+0	233	1793839934203016041	build.ninja	eb79692ee5ec62e2
+0	233	1793839934199728120	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/cmake_install.cmake	eb79692ee5ec62e2
+0	233	1793839934200577813	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/cmake_install.cmake	eb79692ee5ec62e2
+0	233	1793839934202516094	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/cmake_install.cmake	eb79692ee5ec62e2
+1	241	1793839934203016041	build.ninja	eb79692ee5ec62e2
+1	241	1793839934203016041	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/cmake_install.cmake	eb79692ee5ec62e2
+1	241	1793839934203016041	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/cmake_install.cmake	eb79692ee5ec62e2
+1	241	1793839934203016041	/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/cmake_install.cmake	eb79692ee5ec62e2
+1	67	1793839934209461589	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+67	93	1793839934275462040	libglad.a	ace479962c49eec4
+2	52	1793839958532627770	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+52	80	1793839958582628112	libglad.a	ace479962c49eec4
+2	275	1793839958533774077	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+275	325	1793839958805629636	visualizador	fa3763e8deba9d18
+2	55	1793840029947115689	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+55	116	1793840030000116051	libglad.a	ace479962c49eec4
+2	274	1793840029947949797	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+274	325	1793840030219117548	visualizador	fa3763e8deba9d18
+1	66	1793840175952113226	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+66	105	1793840176017113671	libglad.a	ace479962c49eec4
+2	320	1793840175953113233	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+320	372	1793840176271115406	visualizador	fa3763e8deba9d18
+2	60	1793840302872980377	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+60	100	1793840302930980773	libglad.a	ace479962c49eec4
+2	314	1793840302874119036	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+314	364	1793840303185123042	visualizador	fa3763e8deba9d18
+1	53	1793840604083049714	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+53	81	1793840604135050072	libglad.a	ace479962c49eec4
+2	296	1793840604084049721	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+296	347	1793840604378051746	visualizador	fa3763e8deba9d18
+1	52	1793840607935076245	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+52	113	1793840607986076596	libglad.a	ace479962c49eec4
+2	294	1793840607936076251	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+294	345	1793840608228078263	visualizador	fa3763e8deba9d18
+2	52	1793840922560243185	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+52	79	1793840922610243530	libglad.a	ace479962c49eec4
+2	294	1793840922560863417	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+294	344	1793840922852245197	visualizador	fa3763e8deba9d18
+2	64	1793841202481171105	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+64	91	1793841202543171532	libglad.a	ace479962c49eec4
+2	311	1793841202481666289	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+311	361	1793841202790173233	visualizador	fa3763e8deba9d18
+1	52	1793841211062230206	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+52	79	1793841211113230558	libglad.a	ace479962c49eec4
+1	321	1793841211063115579	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+321	370	1793841211382232410	visualizador	fa3763e8deba9d18
+2	51	1793841224696324109	CMakeFiles/glad.dir/external/glad/src/glad.c.o	609996770e0b5f80
+52	92	1793841224746324454	libglad.a	ace479962c49eec4
+2	304	1793841224697553599	CMakeFiles/visualizador.dir/main.cpp.o	80dc91a1a15c7b31
+304	354	1793841224999326196	visualizador	fa3763e8deba9d18

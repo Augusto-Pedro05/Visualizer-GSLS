@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/cmake_install.cmake",
+		"/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/cmake_install.cmake",
+		"/home/augusto-pedro/Documents/Projects/Visualizador GLSL/build/_deps/glfw-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
